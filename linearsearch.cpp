@@ -3,7 +3,7 @@
 using namespace std;
 int main() {
 int arr[50] , len , c_len;
-len=size(arr); // max size of an arry
+len=size(arr); 
 cout<<"Max size of an array "<<len<<endl;
 cout<<"enter the size of an array you want";
 cin>>c_len;
